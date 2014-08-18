@@ -1,0 +1,6 @@
+fn:she,her,herself,hers
+fv:
+mn:he,him,himself,his
+mv:
+nn:ne,nem,nir,nirs,nemself,ve,ver,vis,vis,verself,ey,em,eir,eirs,eirself,ze,hir,hir,hirs,hirself,ze,zir,zir,zirs,zirself,xe,xem,xyr,xyrs,xemself,they,it,their,theirs,them,themselves,itself,its
+nv:
